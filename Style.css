@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, sans-serif;
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #cf7676;
+  
+    color: #fff;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/*рейсы*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fff; /* темно-фиолетовый */
+  }
+ 
+  button {
+    background-color: #793232;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor:pointer;
+  }
+  button:hover {
+    background-color: #793232;
+  }
+  .additional-options {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer {
+    background-color: #793232; /* темно-фиолетовый */
+    padding: 10px 10px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+  }
+  .footer button {
+    background-color: #ff4d4d;
+    color: #fff;
+  }
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#hero {
+
+    color: #fff;
+    padding: 200px 20px;
+    text-align: center;
+}
+
+
+.btn {
+    background: #ca7d7d;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.flight-list {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flight-item {
+  background-color: #ad4d4d51;
+    border: 1px solid #c48c8c51;
+   
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+footer {
+    background: #cf7676;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.social-link{
+  text-align: center;
+
+}
+
+
+
+
