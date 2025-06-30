@@ -1,1 +1,1 @@
-https://panel.amanat.cloud:8000/sub/U3VsYWstU2FmZSwxNzQwNDE1NzY2HXN0jxIXMx
+panel.amanat.cloud:8000/sub/U3VsYWstU2FmZSwxNzQwNDE1NzY2HXN0jxIXMx
